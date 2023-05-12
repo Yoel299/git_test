@@ -1,1 +1,1 @@
-This is Yoel's first git project?!
+Maybe try making a web scraper.
